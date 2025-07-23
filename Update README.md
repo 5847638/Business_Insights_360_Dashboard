@@ -27,17 +27,6 @@ I learned the following things in this project
 8. Stakeholder Feedback Implementation
 9. Sales, Marketing, Finance & Supply Chain metrics
 
-
-**Skills Gained:**
-1.Power Query (Advanced data shaping)
-2.DAX (Basic & advanced)
-3.Relationship modeling across 10+ tables
-4.Bookmarking, tooltip pages, and interactive visuals
-5.Power BI Service deployment
-6.Stakeholder feedback implementation
-
----
-
 📈 Dashboards & Key Metrics
 
 ✅ Sales View
